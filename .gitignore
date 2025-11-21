@@ -205,3 +205,9 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Oversized data that github might not enjoy hosting
+data/parcels/
+
+# Zone identifier WSL junk files
+*:Zone.Identifier
